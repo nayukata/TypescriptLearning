@@ -1,0 +1,8 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nayukata/TypescriptLearning.git",
+  "author": "nayukata <natume31612@gmail.com>",
+  "license": "MIT"
+}
